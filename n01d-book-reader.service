@@ -1,0 +1,15 @@
+[Unit]
+Description=N01D Book Reader - OPDS Library Server
+After=network.target
+
+[Service]
+Type=simple
+User=antics
+WorkingDirectory=/home/antics/nullsec/n01d-book-reader
+ExecStart=/usr/bin/python3 /home/antics/nullsec/n01d-book-reader/n01d-book-reader.py
+Restart=on-failure
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

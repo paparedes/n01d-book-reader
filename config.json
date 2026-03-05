@@ -1,0 +1,13 @@
+{
+  "host": "0.0.0.0",
+  "port": 8074,
+  "library_name": "N01D Book Reader",
+  "library_dirs": [
+    "/home/antics/nullsec-repos",
+    "/home/antics/Documents",
+    "/home/antics/Books"
+  ],
+  "supported_formats": [".pdf", ".epub", ".mobi", ".azw3", ".cbz", ".cbr", ".fb2", ".djvu", ".txt"],
+  "scan_interval_minutes": 30,
+  "cover_cache_dir": "/home/antics/nullsec/n01d-book-reader/covers"
+}
